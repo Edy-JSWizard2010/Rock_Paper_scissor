@@ -27,7 +27,7 @@ body{
     border-radius: 10px;
     box-shadow: 0 15px 25px rgba(0,0,0,0.15);
 }
-.btn-4 {
+.btn-5 {
     align-self: flex-end;  
     background-color: #6849da;
     border: none;
@@ -46,7 +46,7 @@ body{
     box-shadow: 0 10px 15px rgba(0,0,0,0.15);
   }
   
-.btn-4:hover {opacity: 1}
+.btn-5:hover {opacity: 1}
   .centerthis{
       position: absolute;
       top: 60%;
